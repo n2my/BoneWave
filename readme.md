@@ -130,8 +130,8 @@ represent the paired audio and mmWave data from the same recording session.
 
 | Component       | Description                                      |
 | --------------- | ------------------------------------------------ |
-| Participants    | 54 volunteers (27 male and 27 female)             |
-| Speech corpus   | DARPA TIMIT acoustic-phonetic speech corpus      |
+| Participants    | 54 volunteers (27 male and 27 female)            |
+| Speech corpus   | TIMIT corpus                                     |
 | Modalities      | Audio + raw mmWave IF signals                    |
 | Sample length   | 25 seconds per raw sample                        |
 | Formats         | HDF5 processed data, raw audio & mmWave data     |
