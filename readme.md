@@ -95,13 +95,13 @@ Raw audio and mmWave IF signals are stored in a hierarchical directory structure
 Example audio path:
 
 ```text
-BoneWave/TIMIT/audio/TIMIT1/person_1/0/audio.wav
+BoneWave_Data/TIMIT/audio/TIMIT1/person_1/0/audio.wav
 ```
 
 Example mmWave path:
 
 ```text
-BoneWave/TIMIT/mmwave/TIMIT1/person_1/0/adc_data_Raw_0.bin
+BoneWave_Data/TIMIT/mmwave/TIMIT1/person_1/0/adc_data_Raw_0.bin
 ```
 
 Meaning:
