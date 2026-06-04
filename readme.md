@@ -10,7 +10,7 @@ The BoneWave code package can be downloaded here:
 A demonstration of BoneWave is available at:  
 [Demo Video Link]
 
-This repository contains the core implementation of **BoneWave**, a mmWave-based contactless bone-conduction sensing framework for flexible phone call quality enhancement. BoneWave captures speech-induced bone-conduction vibrations around the ear using mmWave radar and fuses them with noisy audio signals to enhance speech quality under challenging acoustic conditions.
+This repository contains the core implementation of **BoneWave**, a mmWave-based contactless bone-conduction sensing framework for flexible phone call quality enhancement. BoneWave captures speech-induced bone-conducted vibrations around the ear using mmWave radar and fuses them with noisy audio signals to enhance speech quality under challenging acoustic conditions.
 
 ---
 
