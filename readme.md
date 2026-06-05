@@ -3,7 +3,7 @@
 ### 📥 Code Download
 
 The BoneWave code package can be downloaded here:  
-[Code Download Link]
+[[Code Download Link](https://drive.google.com/drive/folders/1cfAA_YW-LEQoW4D_SW0Yj6ZLe8XGxg-H?usp=drive_link)]
 
 ### 🎬 Demo Video
 
@@ -35,7 +35,7 @@ The dataset includes:
 * **Raw mmWave + audio data (~87.2 GB)**
 
 The dataset can be downloaded here:  
-[Dataset Download Link]
+[[Dataset Download Link](https://drive.google.com/drive/folders/1CoISDm0z9t_Q7JcfxbIaCZ6nMNlXa-lC?usp=drive_link)]
 
 The BoneWave dataset is a paired **mmWave-audio speech dataset** designed for phone call quality enhancement. The speech content is selected from the **TIMIT corpus** [1]. Each recording contains synchronized audio and raw mmWave intermediate-frequency (IF) signals, enabling research on mmWave-based bone-conduction sensing for speech enhancement, and mmWave-audio multimodal learning.
 
