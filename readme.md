@@ -39,7 +39,7 @@ The dataset includes:
 The dataset can be downloaded here:  
 [[Dataset Download Link](https://drive.google.com/drive/folders/1CoISDm0z9t_Q7JcfxbIaCZ6nMNlXa-lC?usp=drive_link)]
 
-The BoneWave dataset is a paired **mmWave-audio speech dataset** designed for phone call quality enhancement. The speech content is selected from the **TIMIT corpus** [1]. Each recording contains synchronized audio and raw mmWave intermediate-frequency (IF) signals, enabling research on mmWave-based bone-conduction sensing for speech enhancement, and mmWave-audio multimodal learning.
+The BoneWave dataset is a paired mmWave-audio speech dataset collected from 54 participants for phone-call quality enhancement. The speech content is selected from the **TIMIT corpus** [1]. Each recording contains synchronized audio and raw mmWave intermediate-frequency (IF) signals, enabling research on mmWave-based bone-conduction sensing for speech enhancement, and mmWave-audio multimodal learning.
 
 Each raw sample has a duration of **25 seconds** and includes two synchronized modalities:
 
@@ -132,7 +132,7 @@ represent the paired audio and mmWave data from the same recording session.
 
 | Component       | Description                                      |
 | --------------- | ------------------------------------------------ |
-| Participants    | 54 volunteers (27 male and 27 female)            |
+| Participants    | 54 volunteers (27 males and 27 females)            |
 | Speech corpus   | TIMIT corpus                                     |
 | Modalities      | Audio + raw mmWave IF signals                    |
 | Sample length   | 25 seconds per raw sample                        |
